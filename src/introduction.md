@@ -16,11 +16,11 @@ CookieSwap is built on Blast's blockchain, leveraging the strengths of smart con
 
 - **ERC20 Governance Token**: The Cookie Token (CKS) lies at the core of our governance model, empowering token holders with decision-making rights over the platform's future developments and upgrades.
 
-- **Advanced Liquidity Management**: The LiquidityMaker contract simplifies the process of providing liquidity, offering a balanced pool of Cookie and WETH tokens, and includes mechanisms to manage slippage effectively.
-
-- **Enhanced Security Protocols**: Incorporating best practices in smart contract security, CookieSwap ensures the safety of users' assets. Features like ReentrancyGuard and emergency withdrawal functions address potential security risks.
+- **Advanced Liquidity Management**: The LiquidityMaker contract simplifies the process of providing liquidity, offering a balanced pool of Cookie and WETH tokens.
 
 - **Innovative User Experience**: CookieSwap’s interface is designed for ease of use, catering to a wide range of users, from DeFi enthusiasts to casual traders. The platform’s user-centric approach ensures seamless navigation and interaction.
+
+- **Locked Liquidity**: The users can choose to lock their liquidity in a weth/cks or blast/cks pool for a fixed duration, such as one year, the cookies amount will be provided by the platform itself as a form of incentive. This ensures the stability of the liquidity pool and potentially aligns with reward or incentive structures within the DeFi ecosystem.
 
 CookieSwap stands at the forefront of DeFi innovation, offering a platform that is not just another DEX but a gateway to the future of decentralized trading. Our commitment to security, combined with our pursuit of offering a delightful user experience, sets us apart in the rapidly evolving world of digital finance.
 

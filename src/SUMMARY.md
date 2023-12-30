@@ -1,6 +1,7 @@
 # Summary
 
 - [Introduction](./introduction.md)
+- [Distribution](./distribution.md)
 - [Governance](./governance.md)
 - [LiquidityMaker](./liquiditymaker.md)
 - [DEX](./dex.md)
