@@ -1,6 +1,6 @@
 ### LiquidityMaker
 
-**Purpose**: The LiquidityMaker contract is designed for managing and facilitating liquidity in a decentralized finance (DeFi) setup, specifically focused on providing liquidity with the Cookie token and WETH (Wrapped Ether) in the Uniswap V3 framework.
+**Purpose**: The LiquidityMaker contract is designed for managing and facilitating liquidity in a decentralized finance (DeFi) setup, specifically focused on providing liquidity with the Cookie token and other tokens like WETH (Wrapped Ether) and BLAST in the Cookieswap Dex (Decentralized Exchange) on the Blast blockchain. 
 
 **Key Features**:
 
@@ -12,6 +12,6 @@
 
 - **Liquidity Redemption with LP Tokens**: Post the lock-in period, users can redeem their position in the liquidity pool in the form of LP (Liquidity Provider) tokens, representing their proportional ownership of both Cookie and WETH in the pool.
 
-- **Slippage Management**: Allows users to specify a slippage tolerance when adding liquidity, offering protection against unfavorable price movements during the execution of the transaction.
-
 - **Emergency Functionality and Ownership Control**: Integrates emergency withdrawal capabilities, controlled by the contract owner, for added safety. Utilizes OpenZeppelin's ReentrancyGuard for protection against reentrancy attacks and Ownable for managing ownership rights.
+
+- **Tokenized Liquidity**: The liquidity pool is tokenized, allowing users to trade their LP tokens on the open market as NFTs (Non-Fungible Tokens). This enables users to trade their position in the liquidity pool, before the lock-in period expires.
