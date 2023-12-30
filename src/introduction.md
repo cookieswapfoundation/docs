@@ -4,13 +4,13 @@
 
 Welcome to CookieSwap, a next-generation decentralized exchange (DEX) platform engineered to transform the trading landscape of digital assets. At the heart of our platform lies a unique fusion of decentralized finance (DeFi) robustness with the delightful essence of cookies, symbolizing our commitment to creating an engaging yet secure trading ecosystem.
 
-CookieSwap is built on Ethereum's blockchain, leveraging the strengths of smart contract technology to offer a trustless and permissionless trading experience. By integrating with leading DeFi protocols like Uniswap V3, we ensure high liquidity, low slippage, and advanced trading features that cater to both novice and seasoned traders.
+CookieSwap is built on Blast's blockchain, leveraging the strengths of smart contract technology to offer a trustless and permissionless trading experience. By integrating with leading DeFi protocols like Uniswap V3, we ensure high liquidity, low slippage, and advanced trading features that cater to both novice and seasoned traders.
 
 ### Core Technical Features:
 
-- **Decentralized & Trustless Trading**: Built on Ethereum, CookieSwap operates without central authority, removing intermediaries and offering a transparent trading environment.
+- **Decentralized & Trustless Trading**: Built on Blast, CookieSwap operates without central authority, removing intermediaries and offering a transparent trading environment.
 
-- **Smart Contract-Driven**: Utilizing Ethereum smart contracts, CookieSwap automates trading processes, ensures transactional integrity, and enables complex financial operations like liquidity pools and yield farming.
+- **Smart Contract-Driven**: Utilizing Blast smart contracts, CookieSwap automates trading processes, ensures transactional integrity, and enables complex financial operations like liquidity pools and yield farming.
 
 - **Integration with Uniswap V3**: Leveraging the capabilities of Uniswap V3, CookieSwap provides concentrated liquidity, allowing liquidity providers to earn more with less capital. This integration also facilitates low-slippage trades and real-time price feeds.
 
